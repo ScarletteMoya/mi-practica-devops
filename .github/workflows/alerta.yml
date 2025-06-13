@@ -12,4 +12,4 @@ jobs:
     steps:
       - name: Enviar notificación
         run: |
-          curl -d "🚀 Código nuevo en el repositorio" ntfy.sh/devops-itla
+          curl -d "🚀 Código nuevo en el repositorio de Scarlette" ntfy.sh/devops-itla
